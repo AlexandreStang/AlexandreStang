@@ -1,7 +1,7 @@
-## 👋 Hi, I'm Alex!
+## 👋 Hi, I'm Alexandre!
 #### 🎨 Front-End Developer | UI/UX Designer | Pixel Perfectionist
 
-I specialize in turning great designs into smooth, responsive, and engaging user interfaces. Whether it's a web app or an interactive experience, I bring ideas to life with code!
+I specialize in designing and developing smooth, responsive, and engaging user interfaces. Whether it's a web app or an interactive experience, I bring ideas to life!
 
 <!--
 **AlexandreStang/AlexandreStang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

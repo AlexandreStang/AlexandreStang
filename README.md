@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Alexandre!
-#### 🎨 Front-End Developer | Web Integrator | UI/UX Designer | Pixel Perfectionist
+#### 🎨 Front-End Developer | UI/UX Designer
 
 I specialize in designing and developing smooth, responsive, and engaging user interfaces.
 
